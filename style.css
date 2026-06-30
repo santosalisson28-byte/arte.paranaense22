@@ -1,1 +1,23 @@
 
+body{
+     background-color:  #73686C
+     color#000000
+
+
+}
+header{
+
+    background-color:#000000
+    color:#73686C;
+}
+section{
+
+    background-color:antiquewhite
+    color:blanchedalmond;
+}
+footer{
+
+  background-color: azure;
+  color:beige;
+
+}
