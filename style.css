@@ -1,23 +1,43 @@
 
 body{
-     background-color:  #73686C
-     color#000000
-
+     background-color: #000000;
+     color:#000000;
+     font-family : Arial,sans-serrif;
 
 }
+
 header{
 
-    background-color:#000000
+    background-color:#000000;
     color:#73686C;
+    Text-align:center;
 }
+
+
 section{
 
-    background-color:antiquewhite
-    color:blanchedalmond;
+    background-color:antiquewhite;
+    color: blanchedalmond;
 }
+
 footer{
 
   background-color: azure;
   color:beige;
 
+}
+
+h1 {
+     font-size:36px;
+
+
+}
+
+h2{
+    color:#6b2d5c;
+}
+
+p{  
+    font-size:18px;
+    line-height:1.6;
 }
