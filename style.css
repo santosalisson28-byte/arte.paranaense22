@@ -14,18 +14,17 @@ header{
 }
 
 
-section{
+section
 
-    background-color:antiquewhite;
-    color: blanchedalmond;
-}
+    background-color:antiquewhite
+    color:
 
-footer{
+footer
 
   background-color: azure;
   color:beige;
+section
 
-}
 
 h1 {
      font-size:36px;
@@ -41,3 +40,11 @@ p{
     font-size:18px;
     line-height:1.6;
 }
+
+     background-color:#6b2d5c;
+    color:#73686C;
+    border;
+
+}
+
+   
