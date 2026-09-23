@@ -9,7 +9,7 @@ botoesCurtir.forEach(function(botaoCurtir)
             curtiu = true;
             else{
                 contador.textContent--;
-                curtiu = false;
+                curtir = false;
             
         }
     }
